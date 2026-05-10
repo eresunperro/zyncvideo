@@ -35,7 +35,7 @@ Head to the **[Releases page](https://github.com/eresunperro/zyncvideo/releases)
 
 ## 🪟 Windows Installation
 
-> **Requires:** DaVinci Resolve 18 or 19 with **External Scripting** enabled and **Python 3.10** installed.
+> **Requires:** DaVinci Resolve 18 or 19 with **External Scripting** enabled. No Python installation needed — it's bundled inside the app.
 
 1. Download `Zync.exe` from the Releases page.
 2. Double-click `Zync.exe` to launch — no installation needed.
@@ -73,7 +73,7 @@ Zync connects to DaVinci Resolve via its built-in scripting API. You need to ena
 |---|---|---|
 | **OS** | macOS 12+ | Windows 10/11 |
 | **DaVinci Resolve** | 18 or 19 | 18 or 19 |
-| **Python** | Not required (bundled) | 3.10 recommended |
+| **Python** | Not required (bundled) | Not required (bundled) |
 | **RAM** | 8 GB+ | 8 GB+ |
 
 ---

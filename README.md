@@ -35,14 +35,14 @@ Head to the **[Releases page](https://github.com/eresunperro/zyncvideo/releases)
 
 ## 🪟 Windows Installation
 
-> **Requires:** DaVinci Resolve 18 or 19 with **External Scripting** enabled. No separate Python installation needed — everything is bundled inside.
+> **Requires:** DaVinci Resolve 18, 19, or 20 with **External Scripting** enabled.
 
 1. Download `Zync_Windows.zip` from the Releases page.
-2. **Extract the zip** — you'll get a folder with `Zync.exe` and a `python_bridge` subfolder.
-3. **Keep them together in the same folder** — do not move `Zync.exe` out of the folder.
-4. Double-click `Zync.exe` to launch.
-5. If Windows Defender shows a warning, click **More info → Run anyway**.
-6. Keep DaVinci Resolve open in the background and click **Sync**!
+2. **Extract the zip** to any folder.
+3. Double-click **`install.bat`**. 
+   *This will automatically check for Python 3.10, install required audio libraries, and register Zync directly into DaVinci Resolve.*
+4. Open DaVinci Resolve with your project loaded.
+5. Launch the tool from the top menu: **Workspace → Workflow Integrations → Zync**!
 
 ---
 

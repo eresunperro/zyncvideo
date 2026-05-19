@@ -36,41 +36,6 @@
 
 ---
 
-### 🎬 Adobe Premiere Pro CEP Extension (macOS)
-
-**For Adobe Premiere Pro 2023+ (macOS/Apple Silicon)**
-
-1. Download `Zync-Premiere-Installer.pkg` from [Releases](https://github.com/perritodev/zyncvideo/releases)
-2. Double-click to install
-3. Restart Adobe Premiere Pro (all versions)
-4. Open **Window → Extensions → Zync**
-
-**Notes:**
-- Audio processor runs in the background automatically
-- Supports both Release and Beta Premiere Pro installations
-- Python dependencies installed to system Python 3.11
-
----
-
-### 🍎 Alternative: Standalone App (macOS)
-
-1. Download `Zync_App_Mac.zip` from [Releases](https://github.com/perritodev/zyncvideo/releases)
-2. Unzip it — you'll get `Zync.app`
-3. **Right-click → Open** the first time (macOS Gatekeeper requires this once)
-4. Keep DaVinci Resolve open and click **Sync**!
-
----
-
-### 🪟 Alternative: Standalone App (Windows)
-
-1. Download `Zync_Windows.zip` from [Releases](https://github.com/perritodev/zyncvideo/releases)
-2. **Extract the zip** to any folder
-3. Double-click **`install.bat`** (installs dependencies automatically)
-4. Open DaVinci Resolve with your project
-5. Launch: **Workspace → Workflow Integrations → Zync**
-
----
-
 ## ⚙️ Enable External Scripting in DaVinci Resolve
 
 Zync needs this to communicate with DaVinci:

@@ -1,6 +1,6 @@
 # Zync — Professional Multi-Camera Audio Sync
 
-> **Automatic, frame-accurate audio synchronization for DaVinci Resolve**
+> **Automatic, frame-accurate multilayer audio synchronization for DaVinci Resolve**
 
 ---
 

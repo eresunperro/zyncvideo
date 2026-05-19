@@ -105,11 +105,10 @@ sudo installer -pkg Zync-DaVinci-Installer.pkg -target /
 
 ---
 
-## 📞 Support & Licensing
+## 📞 Support
 
-For installation help, feature requests, or licensing inquiries:
+For installation help or feature requests:
 - **GitHub Issues:** [Report a bug](https://github.com/perritodev/zyncvideo/issues)
-- **Email:** [Contact Sales](mailto:sales@zyncvideo.ai)
 
 ---
 

@@ -64,9 +64,10 @@ sudo installer -pkg Zync-DaVinci-Installer.pkg -target /
 3. Go to **Workspace → Workflow Integrations → Zync**
 
 ### Step 2: Select Your Media
-- **Master Audio:** Click **Browse** and select your primary audio track (must be 40+ seconds)
-- **Camera Clips:** Check the boxes next to the camera clips you want to sync
-- **Output Timeline:** Give your synced timeline a name (e.g., "SYNC_MULTICAM")
+- **Camera Timelines:** Zync lists all timelines in your project. Check the boxes next to each camera timeline you want to sync
+  - *Note: Each camera should be in its own timeline for Zync to detect it*
+- **Master Audio:** Click **Browse** and select your primary audio file (must be 40+ seconds)
+- **Output Timeline Name:** Give your synced timeline a name (e.g., "SYNC_MULTICAM")
 
 ### Step 3: Click Sync
 - Zync analyzes the audio waveforms and automatically aligns all clips to your master

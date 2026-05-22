@@ -112,15 +112,6 @@ sudo installer -pkg Zync-DaVinci-Installer.pkg -target /
 
 ---
 
-## 📊 Performance
-
-- **Typical 10-camera sync:** 2-5 minutes
-- **Accuracy:** Sub-frame (better than ±1 frame)
-- **Processing:** Local (no cloud upload)
-- **Supported duration:** Hours to days per recording session
-
----
-
 ## 📈 Latest Release
 
 ### v1.0.3 — May 18, 2026
